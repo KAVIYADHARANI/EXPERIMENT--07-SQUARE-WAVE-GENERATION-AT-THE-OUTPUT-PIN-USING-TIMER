@@ -203,6 +203,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 5000
+
+
 <img width="828" alt="pmc5000" src="https://github.com/user-attachments/assets/1a576179-55a9-46b0-9be0-785495d03cca">
 
 
@@ -210,6 +212,8 @@ FOR PULSE AT 5000
 TON = 1/(TOTAL TIME)
 
 FOR PULSE AT 7000
+
+
 <img width="828" alt="pmc7000" src="https://github.com/user-attachments/assets/3479a278-dbbd-4f66-b436-f1708ab6d2a2">
 
 
@@ -218,6 +222,7 @@ TON = 1/(TOTAL TIME)
 
 
 FOR PULSE AT 9000
+
 
 <img width="828" alt="pmc9000" src="https://github.com/user-attachments/assets/61e15924-f029-4098-b584-1025ea3a0d80">
 
